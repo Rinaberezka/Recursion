@@ -1,0 +1,14 @@
+C:\Lesson_Recursion\task03\bin\Debug\net8.0\task03.exe
+C:\Lesson_Recursion\task03\bin\Debug\net8.0\task03.deps.json
+C:\Lesson_Recursion\task03\bin\Debug\net8.0\task03.runtimeconfig.json
+C:\Lesson_Recursion\task03\bin\Debug\net8.0\task03.dll
+C:\Lesson_Recursion\task03\bin\Debug\net8.0\task03.pdb
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.AssemblyInfoInputs.cache
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.AssemblyInfo.cs
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.csproj.CoreCompileInputs.cache
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.dll
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\refint\task03.dll
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.pdb
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\task03.genruntimeconfig.cache
+C:\Lesson_Recursion\task03\obj\Debug\net8.0\ref\task03.dll
